@@ -1,7 +1,20 @@
-AdCoin is an intuitive and innovative app, developed as part of a project encouraged by my college. Its main goal is to help people with limited financial knowledge organize their finances in a practical and efficient way. The platform provides tools to manage expenses, control debts, and set financial goals, all with a focus on accessibility and usability. Additionally, AdCoin offers personalized guidance, helping users make more informed decisions and achieve better financial outcomes. The mission of the project is to promote financial education and make resources accessible, transforming how people manage their money.
+# Fintech 🪙💵
 
+<p>
+This project, still in development, created as part of an academic initiative. Its goal is to help people with limited financial knowledge organize their finances in a practical way. The platform will offer tools to manage expenses, control debts, and set goals, along with personalized guidance for more informed decision-making. The mission is to promote financial education and make money management more accessible and effective.
+</p>
 
+## Project phases 📈
 
+### Phase 1 - Development 👨‍💻
+
+### Phane 2 - Prototyping ✍
+
+### Phase 3 - Modeling 🛢️
+
+### Phase 4 - View 📱
+
+### Phase 5 - OOP 🔧
 
 
 
