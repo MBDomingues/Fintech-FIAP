@@ -4,7 +4,7 @@
 This project, still in development, created as part of an academic initiative. Its goal is to help people with limited financial knowledge organize their finances in a practical way. The platform will offer tools to manage expenses, control debts, and set goals, along with personalized guidance for more informed decision-making. The mission is to promote financial education and make money management more accessible and effective.
 </p>
 
-[Guilherme Carvalho](https://github.com/guicarbar)
+<p> This project was done in partnership with </p>[Guilherme Carvalho](https://github.com/guicarbar)
 
 ## Project phases 📈
 
